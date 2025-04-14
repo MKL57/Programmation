@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1744647906 source:c:\users\keith mondzali\documents\keith\application des billets de bus\main.c
+	<stdio.h>
+	<string.h>
+
